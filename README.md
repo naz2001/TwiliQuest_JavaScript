@@ -6,4 +6,4 @@ TwilioQuest is an educational PC game created by Twilio. As an "Operator" in the
 The TwilioQuest Program maintains a high-tech research facility,JavaScript Test Lab. They study the latest advancements in JavaScript technology. I, as an Operator, visited the station and review their security posture.
 
 
-These are all the everything in the JavaScript Test Lab for now!
+These are everything in the JavaScript Test Lab for now!
